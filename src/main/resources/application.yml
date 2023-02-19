@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: flight_booking
+netty:
+  default:
+    allocator:
+      max-order: 3
